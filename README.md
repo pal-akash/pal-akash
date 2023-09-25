@@ -5,13 +5,12 @@
 <a href="https://github.com/pal-akash/ReadTrackr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/pal-akash/Git-Inbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=Git-Inbox" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=IPL_Dashboard" />
 </a>  
-<!-- <a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/pal-akash/IPL_Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=IPL_Dashboard" />
-</a> -->
+</a>
 
 <!--
 **pal-akash/pal-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

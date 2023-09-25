@@ -1,7 +1,14 @@
 ### Hello there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr)](https://github.com/pal-akash/ReadTrackr)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=Git-Inbox" />
+</a>
+
 <!--
 **pal-akash/pal-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

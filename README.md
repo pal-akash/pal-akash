@@ -1,5 +1,5 @@
 ### Hello there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&show_icons=true&theme=dark)  
 
 
 <a href="https://github.com/pal-akash/ReadTrackr">

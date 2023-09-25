@@ -1,5 +1,7 @@
 ### Hello there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr)](https://github.com/pal-akash/ReadTrackr)
 <!--
 **pal-akash/pal-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

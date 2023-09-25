@@ -1,5 +1,5 @@
-### Hello there 👋  
-#### My name is Akash Pal. I am a software developer always on pursuit of improvement. Welcome to my GitHub space. 
+### Hello there 👋  Welcome to my GitHub space!
+#### My name is Akash Pal. I am a software developer always on pursuit of improvement.
 #### Here are some stats on my coding journey and some of my projects that might interest you.
 
   

@@ -1,15 +1,15 @@
 ### Hello there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&theme=dark)  
 
 
 <a href="https://github.com/pal-akash/ReadTrackr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr&theme=dark" />
 </a>
 <a href="https://github.com/pal-akash/Git-Inbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=Git-Inbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=Git-Inbox&theme=dark" />
 </a>  
 <a href="https://github.com/pal-akash/IPL_Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=IPL_Dashboard" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=IPL_Dashboard&theme=dark" />
 </a>
 
 <!--

@@ -1,4 +1,7 @@
-### Hello there 👋  My name is Akash Pal. I am a software developer always on pursuit of improvement. Welcome to my GitHub space. 
+### Hello there 👋  
+#### My name is Akash Pal. I am a software developer always on pursuit of improvement. Welcome to my GitHub space.   
+
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&theme=dark)  
 
 

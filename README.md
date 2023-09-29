@@ -21,6 +21,9 @@
 <a href="https://github.com/pal-akash/Web-Stash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=Web-Stash&theme=dark" />
 </a>
+<a href="https://github.com/pal-akash/Shop-Ease">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=Shop-Ease&theme=dark" />
+</a>
 
 <!--
 **pal-akash/pal-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

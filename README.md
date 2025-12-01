@@ -1,9 +1,9 @@
 ### Hello there 👋  Welcome to my GitHub space!  
   
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&theme=dark)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pal-akash&layout=compact&theme=dark)
 
 <a href="https://github.com/pal-akash/ReadTrackr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-akash&repo=ReadTrackr&theme=dark" />
